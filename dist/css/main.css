@@ -237,9 +237,7 @@ main#home h1 {
 .job-1 .job-2 {
   font-size: 1.5rem;
 }
-h6.job-1 {
-  font-size: 2rem;
-}
+
 .projects {
   display: grid;
   grid-gap: 0.7rem;
